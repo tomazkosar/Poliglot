@@ -1,0 +1,78 @@
+---------
+Naloga 1
+
+program {
+    print "Vpiši procent: ";
+    pr: input;
+    if (pr > 50) {
+        print "Pozitivno";
+    }
+    else {
+        print "Negativno";
+    }
+}
+
+---------
+Naloga 2
+
+program {
+    print "Vpiši procent: ";
+    pr: input;
+    if (pr < 50) {
+        print "Negativno";
+    }
+    else if (pr >= 50 and pr < 65) {
+        print "2";
+    }
+    else if (pr >= 65 and pr < 80) {
+        print "3";
+    }
+    else if (pr >= 80 and pr < 90) {
+        print "4";
+    }
+    else {
+        print "5";
+    }
+}
+
+---------
+Naloga 3
+
+program {
+    print "Vpiši število doseženih točk: ";
+    a: input;
+    b: 24;
+    pr: a / b * 100;
+    print "Procent: " pr line;
+    if (pr < 50) {
+        print "Negativno";
+    }
+    else if (pr >= 50 and pr < 65) {
+        print "2";
+    }
+    else if (pr >= 65 and pr < 80) {
+        print "3";
+    }
+    else if (pr >= 80 and pr < 90) {
+        print "4";
+    }
+    else {
+        print "5";
+    }
+}
+
+---------
+Naloga 4
+
+program {
+    print "Vsoto števil 293 in 111 zmanjšaj za 132. ";
+    print "Koliko dobiš?";
+	print "Dobim: ";
+    x: input;
+    if (x = 293 + 111 - 132) {
+        print "Pravilno!";
+    }
+    else {
+        print "Nepravilno!";
+    }
+}

@@ -1,0 +1,28 @@
+---------
+Naloga 1
+
+program {
+    print "Pozdravljen!";
+}
+
+---------
+Naloga 2
+
+program {
+    print "Pozdravljen! ";
+    print "Pozdravljen! ";
+    print "Pozdravljen! ";
+}
+
+---------
+Naloga 3
+
+program {
+    print "Pozdravljen! ";
+	print line;
+    print "Pozdravljen! ";
+	print line;
+    print "Pozdravljen! ";
+	print line;
+}
+

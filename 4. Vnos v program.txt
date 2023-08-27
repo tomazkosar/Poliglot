@@ -1,0 +1,44 @@
+---------
+Naloga 1
+
+program {
+	print "Vpiši število: ";
+    x: input;
+    print "Vpisal si: " x;
+}
+
+---------
+Naloga 2
+
+program {
+	print "Vpiši prvo število: ";
+    x: input;
+    print "Vpiši drugo število ";
+    y: input;
+	print "Vsota je: " x + y;
+}
+
+---------
+Naloga 3
+
+program {
+	print "Vpiši število: ";
+    x: input;
+    print "Predhodnik: " x - 1 line;
+    print "Število: " x line;
+    print "Naslednik: " x + 1 line;
+}
+
+---------
+Naloga 4
+
+program {
+	print "Vpiši stranico a: ";
+    a: input;
+	print "Vpiši stranico b: ";
+    b: input;
+	o: 2 * a + 2 * b;
+	pl: a * b;
+    print "Obseg: " o line;
+    print "Ploščina: " pl line;
+}

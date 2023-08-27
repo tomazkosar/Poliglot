@@ -1,0 +1,67 @@
+---------
+Naloga 1
+
+program {
+    print 10;
+}
+
+---------
+Naloga 2
+
+program {
+    print 124 + 673;
+}
+
+---------
+Naloga 3
+
+program {
+    print "Drugi seštevanec je 227, vsota je 514. ";
+    print "Koliko je prvi seštevanec?" line;
+    print "Prvi seštevanec je: " 124 + 673;
+}
+---------
+Naloga 4
+
+program {
+    print "Vsoto števil 293 in 111 zmanjšaj za 132. ";
+    print "Koliko dobiš?" line;
+    print "Dobim: " 293 + 111 - 132;
+}
+
+---------
+Naloga 5
+
+program {
+    print "30l = ";
+    print 30 * 10;
+    print "dl";
+}
+
+---------
+Naloga 6
+
+program {
+    print "Danes je 28.8. oziroma ";
+    print 31 + 28 + 31 + 30 + 31 + 30 + 31 + 28;
+    print ". dan v letu.";
+}
+
+---------
+Naloga 6
+
+program {
+    print "Danes je 28.8. oziroma ";
+    print 31 + 28 + 31 + 30 + 31 + 30 + 31 + 28;
+    print ". dan v letu.";
+}
+
+---------
+Naloga 7
+
+program {
+    print "Koliko dni je še do novega leta? ";
+    print "Do novega leta je še ";
+    print 3 + 30 + 31 + 30 + 31;
+    print " dni.";
+}
